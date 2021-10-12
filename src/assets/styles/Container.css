@@ -1,0 +1,15 @@
+.card__container {
+    text-align: center;
+    width: 100%;
+}
+
+.card__title {
+    border-bottom: 1px solid #2B0014;
+}
+
+.card__title h4 {
+    color: #2B0014;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    font-size: 24px;
+}

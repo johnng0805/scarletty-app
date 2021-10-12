@@ -2,7 +2,7 @@ import React from 'react';
 import NavLogo from './NavLogo';
 import NavLink from './NavLink';
 import NavLinkDrop from './NavLinkDrop';
-import 'styles/Navbar.css';
+import 'assets/styles/Navbar.css';
 
 class Navbar extends React.Component {
     constructor(props) {
